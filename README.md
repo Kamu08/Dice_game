@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color: #6b46c1; font-size: 2.5em;">
    🎲✨ React Dice Game ✨🎲
 </h1>
 
@@ -25,7 +25,7 @@ Welcome to the React Dice Game, a simple and entertaining game where you can rol
 
 ## 🚀 Live Link
 
-Check out the live React Dice Game: https://dicegamebykml.netlify.app/
+Check out the live React Dice Game: [Dice Game](https://dicegamebykml.netlify.app/)
 
 ## 🏃 How to Run
 
@@ -35,6 +35,7 @@ Check out the live React Dice Game: https://dicegamebykml.netlify.app/
 
    ```bash
    npm install
+
 
 ## ScreenShots
 
